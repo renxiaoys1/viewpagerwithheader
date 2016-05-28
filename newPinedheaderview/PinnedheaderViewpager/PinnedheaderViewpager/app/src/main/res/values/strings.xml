@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">PinnedheaderViewpager</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <array name="FragmentName">
+        <item>"firstFragment"</item>
+        <item>"secondFragment"</item>
+        <item>"thirdFragment"</item>
+        <item>"fourFragment"</item>
+    </array>
+
+
+    <array name="treeName">
+        <item>"tulip"</item>
+        <item>"rose"</item>
+        <item>"teak"</item>
+        <item>"elm"</item>
+        <item>"oak"</item>
+    </array>
+
+
+    <array name="countName">
+        <item>"china"</item>
+        <item>"china"</item>
+        <item>"usa"</item>
+        <item>"gemana"</item>
+        <item>"jp"</item>
+        <item>"korea"</item>
+        <item>"england"</item>
+        <item>"english"</item>
+        <item>"franch"</item>
+        <item>"brazil"</item>
+        <item>"spanlish"</item>
+        <item>"aloabo"</item>
+        <item>"china"</item>
+    </array>
+
+    <array name="fruitName">
+        <item>"peach"</item>
+        <item>"lemon"</item>
+        <item>"rausins"</item>
+        <item>"gemana"</item>
+        <item>"plum"</item>
+        <item>"guava"</item>
+        <item>"coconut"</item>
+        <item>"dates"</item>
+        <item>"fig"</item>
+        <item>"mango"</item>
+        <item>"pumelo"</item>
+        <item>"pineapple"</item>
+        <item>"kiwi"</item>
+    </array>
+
+
+    <array name="sportName">
+        <item>"professional"</item>
+        <item>"ace"</item>
+        <item>"record"</item>
+        <item>"winter olympics"</item>
+        <item>"jp"</item>
+        <item>"amateur"</item>
+        <item>"touch judge"</item>
+        <item>"team"</item>
+        <item>"ring"</item>
+        <item>"pitch"</item>
+        <item>"pe"</item>
+        <item>"physique"</item>
+        <item>"side"</item>
+    </array>
+
+
+</resources>

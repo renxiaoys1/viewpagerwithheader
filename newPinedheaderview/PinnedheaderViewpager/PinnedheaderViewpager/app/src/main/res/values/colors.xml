@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2016 Baidu, Inc. All Rights Reserved.
+  -->
+<resources>
+    <color name="color_ff4badee">#DD4BADEE</color>
+    <color name="color_ff000000">#FF000000</color>
+    <color name="color_ffffc5c2">#FFFFC5C2</color>
+    <color name="color_99fcf069">#99FCF069</color>
+    <color name="color_ff734cb5">#FF734CB5</color>
+    <color name="color_ff9cd688">#FF9CD688</color>
+    <color name="color_ff70d0c1">#FF70D0C1</color>
+    <color name="color_99ffffff">#99FFFFFF</color>
+</resources>
